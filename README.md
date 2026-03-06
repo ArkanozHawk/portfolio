@@ -10,7 +10,7 @@ Full Stack Developer
 Portafolio profesional desarrollado con Laravel y Vue
 </p>
 
-<p align="center">
+<div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-12-red?logo=laravel)
 ![Vue](https://img.shields.io/badge/Vue-3-42b883?logo=vue.js)
@@ -18,7 +18,7 @@ Portafolio profesional desarrollado con Laravel y Vue
 ![MariaDB](https://img.shields.io/badge/MariaDB-11-blue?logo=mariadb)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-</p>
+</div>
 
 ---
 
