@@ -126,9 +126,9 @@ Este proyecto está diseñado para:
 
 # 📫 Contacto
 
-* GitHub <a href="https://github.com/ArkanozHawk">
-* LinkedIn <a href="https://www.linkedin.com/in/msuaste/" target="_blank">
-* Email <a href="mailto:mayolo_123@hotmail.com">
+* GitHub <a href="https://github.com/ArkanozHawk">https://github.com/ArkanozHawk</a>
+* LinkedIn <a href="https://www.linkedin.com/in/msuaste/" target="_blank">https://www.linkedin.com/in/msuaste/</a>
+* Email <a href="mailto:mayolo_123@hotmail.com">mayolo_123@hotmail.com</a>
 
 ---
 
