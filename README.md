@@ -35,7 +35,7 @@ El objetivo es mostrar:
 
 El sitio estará disponible en:
 
-👉 **https://msuaste.dev**
+👉 **<a href="https://msuaste.dev" target="_blank">https://msuaste.dev</a>**
 
 ---
 
@@ -126,11 +126,9 @@ Este proyecto está diseñado para:
 
 # 📫 Contacto
 
-* GitHub
-* LinkedIn
-* Email
-
-*(Se agregarán cuando el sitio esté publicado)*
+* GitHub <a href="https://github.com/ArkanozHawk">
+* LinkedIn <a href="https://www.linkedin.com/in/msuaste/" target="_blank">
+* Email <a href="mailto:mayolo_123@hotmail.com">
 
 ---
 
